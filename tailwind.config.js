@@ -13,7 +13,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'marie': "url('./src/img/marielefranc-accueil.png')",
+        'marie': "url('../img/media/bg-landing.png')",
       },
     },
   },
